@@ -1,0 +1,33 @@
+# Bright Software Solution
+
+> Bright Software Solution is a technology and digital solutions company with 10+ years of experience. Its flagship product is a WhatsApp Business API (Cloud API) platform for team inbox, broadcast campaigns, WhatsApp Flows, automation and chatbots. It also provides custom software development, ERP implementation and customization, graphic design, brand building, digital marketing and infrastructure management. Based in Vapi, Gujarat, India; serving businesses in India and international markets.
+
+Key facts:
+- Company: Bright Software Solution — Technology. Innovation. Growth.
+- Experience: 10+ years in technology and creative work
+- Flagship product: WhatsApp Business API platform built on Meta's official WhatsApp Cloud API (own-number onboarding via Meta embedded signup, shared team inbox, broadcast campaigns, WhatsApp Flows, automation, no-code chatbots, integrations)
+- Location: 808, A Wing, Sonorous, Vapi, Gujarat, India
+- Email: info@brightsoftwaresolution.in
+- Phone / WhatsApp: +91 99131 74798
+- Languages: website in English and Arabic
+
+## Services
+
+- [WhatsApp Business API Platform](https://brightsoftwaresolution.in/whatsapp-business-api/): Connect your own number to the official WhatsApp Cloud API. Team inbox, broadcast campaigns, WhatsApp Flows, automation and no-code chatbots in one platform.
+- [Software Development](https://brightsoftwaresolution.in/software-development/): Custom web apps, mobile solutions, business portals, workflow tools and system integrations — built around your business by a team with 10+ years of experience.
+- [ERP Implementation & Customization](https://brightsoftwaresolution.in/erp-implementation-customization/): ERP implementation, module and workflow customization, process mapping, integrations and user training — so your ERP reflects how your business really works.
+- [Graphic Design & Creative](https://brightsoftwaresolution.in/graphic-design/): Marketing creatives, company profiles, brochures, presentations, social media graphics and digital assets — designed to communicate clearly and stay on brand.
+- [Brand Building](https://brightsoftwaresolution.in/branding/): Logo and identity development, visual direction, positioning support, brand guidelines and communication design for a coherent presence across every touchpoint.
+- [Digital Marketing](https://brightsoftwaresolution.in/digital-marketing/): SEO, social media planning and content, campaign creatives, digital promotions, WhatsApp marketing and ongoing optimization to grow visibility and engagement.
+- [Infrastructure Management](https://brightsoftwaresolution.in/infrastructure-management/): Hosting and server environments, cloud deployments, backups, monitoring, maintenance, performance tuning and technical support for business-critical apps.
+
+## Company
+
+- [Home — about, purpose, process and FAQ](https://brightsoftwaresolution.in/)
+- [Arabic version](https://brightsoftwaresolution.in/ar/)
+- [Contact](https://brightsoftwaresolution.in/#contact): info@brightsoftwaresolution.in, +91 99131 74798
+
+## Optional
+
+- [Full website content in plain text](https://brightsoftwaresolution.in/llms-full.txt)
+- [Privacy policy](https://brightsoftwaresolution.in/privacy-policy/)
