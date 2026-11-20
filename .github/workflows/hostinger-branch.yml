@@ -1,0 +1,31 @@
+# Publishes the contents of website/ as the root of the `hostinger` branch.
+# Hostinger's Git deployment pulls that branch straight into public_html, so only the
+# public site is deployed (no build scripts, logo sources, PDFs or README at the web root).
+name: Publish website branch for Hostinger
+
+on:
+  push:
+    branches: [main]
+    paths: ['website/**', '.github/workflows/hostinger-branch.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hostinger-branch
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Split website/ into the hostinger branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git subtree split --prefix website -b hostinger
+          git push --force origin hostinger
